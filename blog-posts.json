@@ -1,23 +1,42 @@
 [
   {
-    "title": "The story of Kundan Omana",
-    "author": "Sabarinath",
-    "id": "69"
+    "title": "Boy in the box",
+    "author": "Vasim",
+    "id": "1"
   },
    {
-    "title": "How I met sabari",
-    "author": "Navadeep ANIL",
-    "id": "69"
+    "title": "The Zodiac Killer",
+    "author": "Navadeep",
+    "id": "2"
   },
    {
-    "title": "Kundasuthram",
-    "author": "Navadeep ANIL",
-    "id": "69"
+    "title": "Little Miss Nobody case",
+    "author": "Vasim",
+    "id": "3"
   },
    {
-    "title": "Aniline tales",
-    "author": "Chat GPT",
+    "title": " The Chowchilla kidnapping",
+    "author": "Sabari",
+    "id": "4"
+  },
+  {
+    "title": "Ted Bundy",
+    "author": "Sreyas",
     "id": "69"
+  },
+  {
+    "title": "Little Lord Fauntleroy",
+    "author": "Vasim",
+    "id": "5"
+  },
+  {
+    "title": "Murder of the Grimes sisters",
+    "author": "Sreyas",
+    "id": "6"
+  },
+  {
+    "title": "Dean Corll: serial killer and sex offender",
+    "author": "Sabari",
+    "id": "7"
   }
-  
 ]
