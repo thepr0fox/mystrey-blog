@@ -2,41 +2,49 @@
   {
     "title": "Boy in the box",
     "author": "Vasim",
+    "image": "images/boy in the box.jpg",
     "id": "1"
   },
    {
     "title": "The Zodiac Killer",
     "author": "Navadeep",
+    "image": "images/zodiac.jpg",
     "id": "2"
   },
    {
     "title": "Little Miss Nobody case",
-    "author": "Vasim",
+    "author": "Amala V",
+    "image": "images/litllemiss.jpg",
     "id": "3"
   },
    {
     "title": " The Chowchilla kidnapping",
     "author": "Sabari",
+    "image": "images/chowchilla.jpeg",
     "id": "4"
   },
   {
     "title": "Ted Bundy",
     "author": "Sreyas",
+    "image": "images/ted bundy.jpg",
     "id": "69"
   },
   {
     "title": "Little Lord Fauntleroy",
-    "author": "Vasim",
+    "author": "Surya",
+    "image": "images/littlelord.jpg",
     "id": "5"
   },
   {
     "title": "Murder of the Grimes sisters",
-    "author": "Sreyas",
+    "author": "Anya",
+    "image": "images/grime.jpg",
     "id": "6"
   },
   {
     "title": "Dean Corll: serial killer and sex offender",
-    "author": "Sabari",
+    "author": "Panachikadan",
+    "image": "images/dean.jpeg",
     "id": "7"
   }
 ]

@@ -1,0 +1,33 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  z-index: 1;
+  background-color: rgba(131, 138, 149, 0.148);
+  padding: 1rem;
+}
+
+header nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
+header nav ul li {
+  list-style: none;
+  margin: 0 1rem;
+  font-size: 1.25rem;
+}
+
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: .5s;
+}
+
+header nav ul li a:hover {
+  font-size: 1.3rem;
+  text-decoration: underline;
+
+}
