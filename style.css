@@ -74,11 +74,7 @@ h4 {
 .cta-button {
     display: inline-block;
     padding: 3rem 2rem;
-<<<<<<< HEAD
-    background-color: #10141667;
-=======
     background-color: #1014163e;
->>>>>>> c9ee79367ead754e36fd651cc238aefc9b2176b6
     color: white;
     transition: .3s;
     border: none;
