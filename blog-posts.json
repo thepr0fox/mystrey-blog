@@ -2,41 +2,49 @@
   {
     "title": "Boy in the box",
     "author": "Vasim",
+    "image": "https://via.placeholder.com/300x200.png?text=Blog+Image",
     "id": "1"
   },
    {
     "title": "The Zodiac Killer",
     "author": "Navadeep",
+    "image": "https://via.placeholder.com/300x200.png?text=Blog+Image",
     "id": "2"
   },
    {
     "title": "Little Miss Nobody case",
     "author": "Vasim",
+    "image": "https://via.placeholder.com/300x200.png?text=Blog+Image",
     "id": "3"
   },
    {
     "title": " The Chowchilla kidnapping",
     "author": "Sabari",
+    "image": "https://via.placeholder.com/300x200.png?text=Blog+Image",
     "id": "4"
   },
   {
     "title": "Ted Bundy",
     "author": "Sreyas",
+    "image": "https://via.placeholder.com/300x200.png?text=Blog+Image",
     "id": "69"
   },
   {
     "title": "Little Lord Fauntleroy",
     "author": "Vasim",
+    "image": "https://via.placeholder.com/300x200.png?text=Blog+Image",
     "id": "5"
   },
   {
     "title": "Murder of the Grimes sisters",
     "author": "Sreyas",
+    "image": "https://via.placeholder.com/300x200.png?text=Blog+Image",
     "id": "6"
   },
   {
     "title": "Dean Corll: serial killer and sex offender",
     "author": "Sabari",
+    "image": "https://via.placeholder.com/300x200.png?text=Blog+Image",
     "id": "7"
   }
 ]
