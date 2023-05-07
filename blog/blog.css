@@ -81,6 +81,9 @@ main article p{
   margin: 2rem 0 0 2rem;
 }
 
+main img{
+  border-radius: .5rem;
+}
 
 iframe {
   /* transition: .5s; */
