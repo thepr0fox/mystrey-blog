@@ -31,7 +31,7 @@
   },
   {
     "title": "Little Lord Fauntleroy",
-    "author": "Alen",
+    "author": "Vasim",
     "image": "images/littlelord.jpg",
     "id": "5"
   },
@@ -46,5 +46,29 @@
     "author": "Sabari",
     "image": "images/dean.jpeg",
     "id": "7"
+  },
+  {
+    "title": "THE Mysterious Dudleytown",
+    "author": "Sreyas",
+    "image": "images/dud.jpg",
+    "id": "8"
+  },
+  {
+    "title": "Spray Painted polar bear",
+    "author": "Navadeep",
+    "image": "images/bear.jpeg",
+    "id": "9"
+  },
+  {
+    "title": "The Terrifying History of Lobotomy",
+    "author": "Anya",
+    "image": "images/lobo.jpg",
+    "id": "10"
+  },
+  {
+    "title": "Murder of actress Thelma Todd",
+    "author": "Amala",
+    "image": "images/thelma.jpeg",
+    "id": "11"
   }
 ]
