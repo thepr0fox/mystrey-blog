@@ -95,6 +95,28 @@ header nav ul li a:hover {
   box-shadow: 0px 5px 10px rgba(219, 152, 152, 0.3);
 }
 
+iframe {
+  /* transition: .5s; */
+  border-radius: .5rem;
+  align-self: center;
+  justify-self: center;
+  max-width: 99vw;
+  animation: pop-out 2s ease-in-out infinite;
+}
+
+@keyframes pop-out {
+
+  0%,
+  100% {
+    transform: translateY(-10px);
+  }
+
+  50% {
+
+    transform: translateY(0px);
+  }
+}
+
 @media screen and (max-width: 768px) {
     
     header nav ul li a{
